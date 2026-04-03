@@ -1,13 +1,3 @@
----
-title: AIOps OpenEnv Simulation
-emoji: 🤖
-colorFrom: blue
-colorTo: green
-sdk: docker
-app_file: app.py
-pinned: false
----
-
 # AIOps Multi-Agent OpenEnv Simulation for Autonomous Incident Management
 
 # Project Description
